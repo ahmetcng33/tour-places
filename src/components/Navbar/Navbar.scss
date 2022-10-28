@@ -9,5 +9,10 @@
         color: white;
         text-decoration: none;
         font-size: 2rem;
+        &:hover{
+            background-color: $cardNavBgColor;
+            color: $cardNavBgColor;
+
+        }
     }
 }
